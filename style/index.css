@@ -154,6 +154,7 @@ padding: 0px;
         display: flex;
         justify-content: space-around;
         text-align: center;
+        
 }
 .donet {
         box-sizing: border-box;
@@ -161,6 +162,9 @@ padding: 0px;
         background-color: #75757537;
         font-size: 40px;
         padding: 20px;
+}
+.donet:hover {
+        background-color: #372c9887;
 }
 .sec-2 {
        text-align: center; 
