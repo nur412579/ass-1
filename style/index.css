@@ -1,0 +1,189 @@
+* {
+        margin: 32px;
+        /* background-color: #006A50; */
+}
+body {
+    
+        font-family: "Fira Sans", serif;
+        font-weight: 600;
+        font-style: normal;
+        font-variation-settings:
+        "wdth" 100;
+        position: static;
+        margin: 90px 80px;
+}
+
+.scendary-back {
+    border-radius: 25px;
+ background: #C6E4D6;
+}
+.section-title {
+font-size: 35px;
+font-weight: bold;
+border-radius: 5px;
+}
+.section-description {
+font-size: 18px;
+color: #757575;
+}
+.text-center {
+text-align: center;
+}
+.dark-2 {
+color: rgba(14, 14, 14, 0.5);
+}
+.btn {
+background-color: #006A50;
+font-weight: bold;
+font-size: 20px;
+border: none;
+padding: 18px 35px;
+border-radius: 8px;
+color: aliceblue;
+margin-bottom: 25px;
+}
+/* bannar gretting */
+.banner {
+display: flex;
+justify-content: space-between;
+margin: 0 35px 0 230px;
+}
+.banner-c {
+max-width: 600px;
+}
+.banner-wlc {
+font-size: 24px;
+font-weight: 300px;
+margin-top: 100px;
+}
+.banner-t {
+font-weight: bold;
+font-size: 55px;
+padding-bottom: 10px;
+}
+.banner-profile-picture {
+width: 540px;
+padding-bottom: 20px;
+}
+/* skills saction */
+
+.skill-container {
+        display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+gap: 24;
+padding: 0px;
+    }
+.skill {
+        position: static;
+        width: 1280px;
+        /* height: 325px; */
+        align-items: center;
+        gap: 24;
+        padding: 32px;
+        border-radius: 16px;
+        margin-right: 24px;
+}
+.skill1 {
+        box-sizing: border-box;    
+        background: rgba(84, 144, 245, 0.2);
+    }
+.btn1 {
+        background-color: rgb(84, 144, 245);
+    }
+.skill2 {
+        box-sizing: border-box;
+        background: rgb(198, 228, 214);
+    }
+.btn2 {
+        margin-top: 20px;
+    }
+.skill3 {
+        box-sizing: border-box;
+        background: rgb(247, 235, 207);
+}
+.btn3 {
+        border-radius: 8px;
+        background: rgb(255, 194, 57);
+}
+.skill4 {
+        box-sizing: border-box;
+        border: 1px solid rgba(14, 14, 14, 0.15);
+        border-radius: 16px;
+        background: #75757521;
+        width: auto;
+       
+}
+.skill4 p{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        gap: 24;
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 0%;
+}
+.img-p {
+        background-image: url("../assets/quote-bg.png");
+        background-repeat: no-repeat;
+}
+.p-dr {
+   padding-top: 0%;
+   margin-top: 0%;
+}
+.sec-1 {
+        /* position: static;
+        width: 1280px;
+        height: 402px;
+        background-color: rgb(255, 255, 255);
+        margin-bottom: 20px; */
+        line-height: 15px;
+        text-indent: 0px;
+}
+.title3 {
+        display: flex;
+        box-sizing: border-box;
+        background-color: #75757521;
+        padding-bottom: 25px;
+        
+}
+.img-2 {
+        border-radius: 24px;
+}
+.experience {
+        width: auto;
+
+}
+.sec-2 {
+        margin-top: 20px;
+}
+.donet-master {
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+}
+.donet {
+        box-sizing: border-box;
+        border: 1px solid cyan;
+        background-color: #75757537;
+        font-size: 40px;
+        padding: 20px;
+}
+.sec-2 {
+       text-align: center; 
+}
+.donet3 {
+        background-color: #C6E4D6;
+}
+.type1 {
+        width: 1032px;
+        height: 64px;
+        text-align: center;
+
+
+}
+.footer {
+        font-size: 700px;
+}
